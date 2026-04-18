@@ -2,24 +2,7 @@
 
 A full-stack web application with AI/RAG integration that processes book data and enables intelligent querying.
 
-**Note for the assignment:** This application was built using a Node.js/TypeScript stack (Express + React) rather than Python/Django to map to the constraints of the current environment, while still fully executing the core objectives of the Document Processing Engine, REST APIs, and RAG Pipeline.
-
-## Screenshots
-
-*(Please replace these placeholder image links with actual screenshots of your application before submitting)*
-
-### Dashboard / Book Listing Page
-![Dashboard UI](https://placehold.co/800x450/e0e7ff/4f46e5?text=Dashboard+UI+Screenshot)
-
-### Upload Book & Processing Interface
-![Upload UI](https://placehold.co/800x450/e0e7ff/4f46e5?text=Upload+Interface+Screenshot)
-
-### Book Detail & AI Recommendations
-![Book Detail UI](https://placehold.co/800x450/e0e7ff/4f46e5?text=Book+Detail+View+Screenshot)
-
-### Q&A Interface (RAG Pipeline)
-![Q&A Interface UI](https://placehold.co/800x450/e0e7ff/4f46e5?text=Q%26A+Interface+Screenshot)
-
+**Note for the assignment:** This application was built using a Node.js/TypeScript stack (Express + React) rather than Python/Django to map to the constraints of the current environment, while still fully executing the core objectives of the Document Processing Engine, REST APIs, and RAG Pipeline
 
 ## Setup Instructions
 
